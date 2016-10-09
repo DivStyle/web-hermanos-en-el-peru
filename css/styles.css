@@ -1,0 +1,67 @@
+/*Estilo que acomoda las imagenes **quienes-somos** */
+#pastores-lg {
+  margin-top: 5%;
+  margin-left: 2%;
+}
+#pastores-md {
+  margin-top: 22%;
+  margin-left: 3%;
+}
+/*Estilo que acomoda las imagenes **ministerios** */
+#ministerios-lg {
+  margin-top: 10%;
+  margin-left: 2%;
+}
+/*Aumenta el tamaño de los iconos ++conexiones***/
+#conexiones_icon {
+  font-size: 22px;
+}
+/*Muestra mano de vinculo al pasar por ensima de un link de video*/
+i.fa.fa-film:hover {
+  cursor: pointer;
+}
+.div-footer {
+  background-color: #101010;
+  color: #fff;
+  text-align: center;
+}
+#iconos-footer{
+  font-size: 52px;
+  color: rgba(0, 0, 0, 0.16);
+}
+/*Borde para visualizador de videos*/
+#videos_lg {
+  /* display: block; */
+  border: 7px;
+  border-style: double;
+}
+
+.div-login {
+  margin-top: 15%;
+  width: 47%;
+  background-color: #333;
+  margin-left: 30%;
+}
+
+.icono_login {
+  color: #fff;
+  font-size: xx-large;
+}
+
+#power_off{
+  font-size: 18px;
+  color: red;
+}
+i#power_off:hover {
+  color: brown;
+}
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+.bs-callout-danger {
+  border-left-color: #ce4844;
+}
